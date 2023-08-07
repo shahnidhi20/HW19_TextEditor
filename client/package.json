@@ -3,7 +3,7 @@
   "scripts": {
     "dev": "webpack-dev-server --open",
     "buildprod": "webpack --mode production",
-    "build": "webpack --watch"
+    "build": "webpack"
   },
   "author": "2U",
   "license": "UNLICENSED",
